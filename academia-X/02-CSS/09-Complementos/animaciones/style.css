@@ -1,0 +1,11 @@
+@keyframes holaMundo{
+    0% {color: #fff}
+    50% {color: #000 ;}
+    100%{color: #f00;}
+}
+
+div{
+    animation-name: holaMundo;
+    animation-duration: 4s;
+    font-size: 40px;
+}

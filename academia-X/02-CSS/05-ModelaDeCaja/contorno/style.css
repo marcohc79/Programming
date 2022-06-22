@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+span{
+    display: inline-block;
+    padding: 20px;
+    /* No es parte del modelo de la baja (no pertenece al DOM) */
+    outline: solid 20px red;
+}

@@ -1,0 +1,49 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    /* removes el espacio */
+    font-size: 0;
+}
+
+div {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.div01{
+    background: red;
+}
+
+.div02{
+    background: blue;
+}
+
+.div03{
+    background: yellow;
+}
+
+.div04{
+    background: orange;
+}
+
+.div05{
+    background: blueviolet;
+}
+
+/* only solo esto / not todo menos esto */
+
+/* cual es el dispositivo que vas a cambiar */
+/* screen se aplica a todas las pantallas */ 
+/* all todos los tipos de dispotivos */
+/* print que solo aplica cuando vas a imprimir */
+/* speech controlar los lectores de pantalla */
+
+/* and luego va la condicion */
+
+@media only screen and (min-width: 500px){
+    div{
+        width: 100px;
+        height: 100px;
+    }
+}

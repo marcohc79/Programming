@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+div {
+    background: red;
+    padding: 10px;
+    border: 10px solid blue;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+}

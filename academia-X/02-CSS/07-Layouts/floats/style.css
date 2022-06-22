@@ -1,0 +1,45 @@
+div{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+
+.div01{
+    background: blue;
+    float: right;;
+}
+.div02{
+    background: green;
+}
+
+.div03{
+    background: yellow;
+}
+
+.div04{
+    background: red;
+}
+
+.div05{
+    background: orange;
+}
+
+.div06{
+    background: olive;
+}
+
+.div07{
+    background: slateblue;
+}
+
+.div08{
+    background: lightblue;
+}
+
+.div09{
+    background: azure;
+}
+
+.div10{
+    background: aqua;
+}

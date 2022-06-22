@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+span{
+    display: inline-block;
+    border: dotted 5px red;
+    padding: 10px;
+}

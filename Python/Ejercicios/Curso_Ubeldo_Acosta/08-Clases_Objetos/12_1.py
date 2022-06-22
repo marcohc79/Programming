@@ -1,0 +1,2 @@
+class Intervalo(desde, hasta):
+

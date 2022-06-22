@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    border: 1px solid black;
+}
+
+div {
+    background:#f3f8ff ;
+    border: 1px solid red;
+    padding: 20px;
+    display: inline-block;
+    margin: 30px;
+}
+
