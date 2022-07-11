@@ -1,0 +1,1 @@
+<__main__.crear.<locals>.Vehiculo object at 0x7fd391117e80>
