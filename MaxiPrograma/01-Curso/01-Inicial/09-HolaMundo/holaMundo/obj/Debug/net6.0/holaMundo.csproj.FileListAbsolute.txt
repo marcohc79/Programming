@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/holaMundo
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/holaMundo.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/holaMundo.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/holaMundo.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/ref/holaMundo.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/bin/Debug/net6.0/holaMundo.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/ref/holaMundo.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/01-Inicial/09-HolaMundo/holaMundo/obj/Debug/net6.0/holaMundo.genruntimeconfig.cache

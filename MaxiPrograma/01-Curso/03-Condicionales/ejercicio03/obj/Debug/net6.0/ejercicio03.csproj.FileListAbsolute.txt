@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ejercicio03
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ejercicio03.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ejercicio03.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ejercicio03.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ref/ejercicio03.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/bin/Debug/net6.0/ejercicio03.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ref/ejercicio03.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/03-Condicionales/ejercicio03/obj/Debug/net6.0/ejercicio03.genruntimeconfig.cache

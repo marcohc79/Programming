@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/TPFinal_HuamaniCaballero
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/TPFinal_HuamaniCaballero.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/TPFinal_HuamaniCaballero.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/TPFinal_HuamaniCaballero.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/ref/TPFinal_HuamaniCaballero.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/bin/Debug/net6.0/TPFinal_HuamaniCaballero.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/ref/TPFinal_HuamaniCaballero.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/09-Certificado/TPFinal_HuamaniCaballero/obj/Debug/net6.0/TPFinal_HuamaniCaballero.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UM9U2445RILHUG70H3Px1SHvuar0za6zDiBz3lZWQF2hnFUIcQ8RG5KfbXr/7QiNC+zXMzUhGYZtn5Gaq+SZeA==",
+  "success": true,
+  "projectFilePath": "/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/calculadora.csproj",
+  "expectedPackageFiles": [
+    "/home/mhcaballero/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

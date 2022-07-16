@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ejercicio02
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ejercicio02.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ejercicio02.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ejercicio02.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ref/ejercicio02.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/bin/Debug/net6.0/ejercicio02.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ref/ejercicio02.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/06-CiclosCombinados/ejercicio02/obj/Debug/net6.0/ejercicio02.genruntimeconfig.cache

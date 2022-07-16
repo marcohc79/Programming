@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/demoraViaje
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/demoraViaje.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/demoraViaje.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/demoraViaje.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/ref/demoraViaje.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/bin/Debug/net6.0/demoraViaje.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/ref/demoraViaje.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/demoraViaje/obj/Debug/net6.0/demoraViaje.genruntimeconfig.cache

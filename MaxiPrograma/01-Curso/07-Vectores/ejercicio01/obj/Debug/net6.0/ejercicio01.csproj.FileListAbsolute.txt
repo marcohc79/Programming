@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ejercicio01
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ejercicio01.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ejercicio01.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ejercicio01.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ref/ejercicio01.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/bin/Debug/net6.0/ejercicio01.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ref/ejercicio01.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/07-Vectores/ejercicio01/obj/Debug/net6.0/ejercicio01.genruntimeconfig.cache

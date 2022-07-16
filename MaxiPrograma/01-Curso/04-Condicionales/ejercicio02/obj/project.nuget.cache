@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MFaunXLv9gWndEyM5Bqr17XDEmYKc5dHBzwgb4JjA+ZfqDGOR4B6jE0Ri9B3HJCyRnuAtFw7OhFoxNs9naonQ==",
+  "success": true,
+  "projectFilePath": "/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/04-Condicionales/ejercicio02/ejercicio02.csproj",
+  "expectedPackageFiles": [
+    "/home/mhcaballero/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

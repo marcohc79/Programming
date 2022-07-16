@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/salario
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/salario.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/salario.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/salario.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/ref/salario.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/bin/Debug/net6.0/salario.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/ref/salario.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/salario/obj/Debug/net6.0/salario.genruntimeconfig.cache

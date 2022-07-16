@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvKNPTCm5y/T7FarGRdungRhwHh7ygtcVCa3Unrv50D8t4kzLP3ONJ9vAtXzuZ1aRZIYGu+kX3QtMcled/2GEg==",
+  "success": true,
+  "projectFilePath": "/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/08-Funciones/ejercicio01/ejercicio01.csproj",
+  "expectedPackageFiles": [
+    "/home/mhcaballero/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

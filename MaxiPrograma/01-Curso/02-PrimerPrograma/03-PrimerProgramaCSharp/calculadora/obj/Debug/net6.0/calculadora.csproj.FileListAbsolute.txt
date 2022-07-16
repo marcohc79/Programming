@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/calculadora
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/calculadora.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/calculadora.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/calculadora.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/ref/calculadora.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/bin/Debug/net6.0/calculadora.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/ref/calculadora.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/03-PrimerProgramaCSharp/calculadora/obj/Debug/net6.0/calculadora.genruntimeconfig.cache

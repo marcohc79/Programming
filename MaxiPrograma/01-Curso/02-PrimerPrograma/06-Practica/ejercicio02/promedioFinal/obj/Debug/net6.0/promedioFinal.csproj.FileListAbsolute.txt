@@ -1,0 +1,15 @@
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/promedioFinal
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/promedioFinal.deps.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/promedioFinal.runtimeconfig.json
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/promedioFinal.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/ref/promedioFinal.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/bin/Debug/net6.0/promedioFinal.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.csproj.AssemblyReference.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.AssemblyInfoInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.AssemblyInfo.cs
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.csproj.CoreCompileInputs.cache
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/ref/promedioFinal.dll
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.pdb
+/home/mhcaballero/Documents/Programming/MaxiPrograma/01-Curso/02-PrimerPrograma/06-Practica/ejercicio02/promedioFinal/obj/Debug/net6.0/promedioFinal.genruntimeconfig.cache
