@@ -1,0 +1,8 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\bin\Debug\ejemplo.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\bin\Debug\ejemplo.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\bin\Debug\ejemplo.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\obj\Debug\ejemplo.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\obj\Debug\ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\obj\Debug\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\obj\Debug\ejemplo.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\03-Clases_Objetos_EjemploVentas\ejemplo\obj\Debug\ejemplo.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\bin\Debug\ejemplo01.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\bin\Debug\ejemplo01.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\bin\Debug\ejemplo01.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\obj\Debug\ejemplo01.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\obj\Debug\ejemplo01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\obj\Debug\ejemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\obj\Debug\ejemplo01.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\02-Clases_Objetos_Propiedades_Encapsulamientos\ejemplo01\obj\Debug\ejemplo01.pdb
