@@ -15,6 +15,14 @@ namespace ejemplo01
         private string nombre;
 
 
+        public Persona(string nombre)
+        {
+            this.nombre = nombre;
+        }
+
+
+
+
         //creo un metodo.
         public void setEdad(int e)
         {
@@ -24,6 +32,17 @@ namespace ejemplo01
         public int getEdad()
         {
             return edad;
+        }
+
+        // Metodos
+        public string saludar()
+        {
+            return "Hola soy ..." + nombre;
+        }
+
+        public string saludar(string personaje)
+        {
+            return "Hola " + personaje+ " soy " + this.nombre;
         }
     }
 }

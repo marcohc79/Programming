@@ -1,0 +1,8 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\bin\Debug\01-Ejercicio.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\bin\Debug\01-Ejercicio.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\bin\Debug\01-Ejercicio.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\obj\Debug\01-Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\obj\Debug\01-Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\obj\Debug\01-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\obj\Debug\01-Ejercicio.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\02-POO\Desafio\01-Ejercicio\obj\Debug\01-Ejercicio.pdb
