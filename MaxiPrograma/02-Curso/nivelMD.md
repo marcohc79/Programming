@@ -101,3 +101,47 @@ public string saludar(string personaje)
     return "Hola " + personaje + ", " + "soy " + this.nombre;
 }
 ~~~
+
+
+
+## Herencia
+
+A muy groso modo es que una clase herede los metodos y propiedades de otro. Tambien tener encuenta la jerarquia la cual es abajo hacia arriba.
+
+Tipos Valor: Variables en espacio en momoria (int, string, char)
+Tipos Referencial: Son los objetos, la caracteristica es cuando ejecuto `new` aca se genera la referencia de variable en el objeto.
+
+## Colecciones
+Es una evolucion de los vectores. Una de las características importantes es que su tamaño es dinámico.
+Al momento de crearlos:
+~~~
+using System.Collections.Generic;
+
+//<> nos definen un tipo generico, vamos a decir que tipos de objetos vamos manejar.
+List<Camioneta> listaCamionetas = new Lista<Camioneta>();
+~~~
+
+## Sobre escritura
+
+Tomar un metodo que ya existe y redefinirlo pero no lo tengo en la clase actual. Es un metodo heredado.
+
+En el metodo que quiero sobre escribir tengo que colocar **override** de la siguiente forma:
+~~~
+public override string ToString()
+{
+    return "Modifco: ";
+}
+~~~
+
+El anterio lo puedo modificar sin hacer nada ya que es un metodo default, ahora si quiero hacerlo en alguno que fue generado por nosotros.
+`public virutal string comunicarse(){}` Como Se ve `virtual` 
+
+## Modelo de donimio
+Se utiliza: Notacion UML.
+ 
+
+ ## Tipos de clases
+  
+  Abstracta: Por lo tanto no se puede crear una instancia. Pero si las clases hijas.
+  Sealed: Es contraria a abastrac, no permite heredar. Puede servir para marcar el final de una jerarquia.
+  Static: Si la clase es estatica el metodo tambien lo tiene que ser. Se puede utilizar directamente sin necesidad de instanciarla.

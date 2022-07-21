@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo01", "ejemplo01\ejemplo01.csproj", "{1EF4EFC9-A30E-4EF3-AA79-4CB6CBB3FC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo02", "ejemplo02\ejemplo02.csproj", "{3166C132-4C59-4A67-B730-23FF7288E4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo03", "Ejemplo03\Ejemplo03.csproj", "{9C49DCD9-CD91-428C-A446-EB5DFABEE5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF4EFC9-A30E-4EF3-AA79-4CB6CBB3FC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF4EFC9-A30E-4EF3-AA79-4CB6CBB3FC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF4EFC9-A30E-4EF3-AA79-4CB6CBB3FC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF4EFC9-A30E-4EF3-AA79-4CB6CBB3FC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3166C132-4C59-4A67-B730-23FF7288E4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3166C132-4C59-4A67-B730-23FF7288E4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3166C132-4C59-4A67-B730-23FF7288E4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3166C132-4C59-4A67-B730-23FF7288E4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C49DCD9-CD91-428C-A446-EB5DFABEE5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C49DCD9-CD91-428C-A446-EB5DFABEE5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C49DCD9-CD91-428C-A446-EB5DFABEE5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C49DCD9-CD91-428C-A446-EB5DFABEE5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0701302-8044-498A-A914-E58AC491B662}
+	EndGlobalSection
+EndGlobal
