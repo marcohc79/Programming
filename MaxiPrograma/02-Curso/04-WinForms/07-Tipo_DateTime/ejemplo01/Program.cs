@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejemplo03
+namespace ejemplo01
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Persona > Lider > Developer > Tester 
-            Persona persona01 = new Persona(); 
-            Developer developer01 = new Developer();
-            Lider lider01 = new Lider();
+            DateTime fecha = new DateTime(1990,12,1 );
+            Console.WriteLine(fecha.AddDays(5.5)); 
+
 
         }
     }

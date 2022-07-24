@@ -1,0 +1,11 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\bin\Debug\DatosPersonales.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\bin\Debug\DatosPersonales.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\bin\Debug\DatosPersonales.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.Form1.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.Properties.Resources.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.csproj.GenerateResource.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\DatosPersonales\obj\Debug\DatosPersonales.pdb

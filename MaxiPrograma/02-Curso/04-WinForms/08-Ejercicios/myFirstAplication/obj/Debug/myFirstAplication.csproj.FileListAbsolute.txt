@@ -1,0 +1,11 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\bin\Debug\myFirstAplication.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\bin\Debug\myFirstAplication.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\bin\Debug\myFirstAplication.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.Properties.Resources.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.csproj.GenerateResource.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\myFirstAplication\obj\Debug\myFirstAplication.formMain.resources

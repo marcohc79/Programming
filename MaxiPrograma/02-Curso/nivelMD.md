@@ -145,3 +145,9 @@ Se utiliza: Notacion UML.
   Abstracta: Por lo tanto no se puede crear una instancia. Pero si las clases hijas.
   Sealed: Es contraria a abastrac, no permite heredar. Puede servir para marcar el final de una jerarquia.
   Static: Si la clase es estatica el metodo tambien lo tiene que ser. Se puede utilizar directamente sin necesidad de instanciarla.
+  
+
+  ## Evento
+
+  Es un metodo asociado a un determinado contexto, como un click.
+

@@ -1,0 +1,11 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\bin\Debug\ejemplo02.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\bin\Debug\ejemplo02.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\bin\Debug\ejemplo02.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.Form1.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.Properties.Resources.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.csproj.GenerateResource.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\07-Tipo_DateTime\ejemplo02\obj\Debug\ejemplo02.pdb

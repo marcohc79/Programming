@@ -1,0 +1,11 @@
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\bin\Debug\practica03.exe.config
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\bin\Debug\practica03.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\bin\Debug\practica03.pdb
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.csproj.AssemblyReference.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.Form1.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.Properties.Resources.resources
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.csproj.GenerateResource.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.csproj.CoreCompileInputs.cache
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.exe
+C:\Users\Marco Huamani\Documents\Programming\MaxiPrograma\02-Curso\04-WinForms\08-Ejercicios\practica03\obj\Debug\practica03.pdb
